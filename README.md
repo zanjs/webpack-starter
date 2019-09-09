@@ -1,4 +1,7 @@
 # webpack-starter
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/webpack-starter.svg)](https://greenkeeper.io/)
+
 #### 1、项目初始化
 ``` bash
 npm init
